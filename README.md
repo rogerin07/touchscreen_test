@@ -1,1 +1,1 @@
-# touchscreen_test
+The purpose of this script is to automatically record and click where there were screen touches on the cell phone, for the development of the code, the python language was used, and the functions of kali linux for debugging by usb using the adb command-line tool 
